@@ -1,0 +1,8 @@
+In this project, Electricity demand forecasting is carried out for Hungarian market. For this purpose, historical data of electricity demand for years 2015 to 2020 has been used.
+Also, as I am looking for environmental data, such as temperature and humidity, they will also be used in case I find proper data. 
+For now, data of years 2015 - end of 2018 is used as training data, and years 2019 and 2020 are used for test purposes 
+but I will most probably change this, because I am working on different features of my data and analysis.
+
+
+The source for data is:
+https://transparency.entsoe.eu/load-domain/r2/totalLoadR2/show?name=&areaType=CTY&biddingZone.values=CTY|10Y1001A1001A83F!CTY|10Y1001A1001A83F
