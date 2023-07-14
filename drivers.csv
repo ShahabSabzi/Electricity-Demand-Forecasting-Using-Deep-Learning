@@ -1,0 +1,151 @@
+DriverID,driving_experience,since,age,gender,education,income,SoC,location
+1,3-5 years,2018,50-60,male,high school diploma,above average,43,1
+2,3-5 years,2018,18-30,male,Doctoral degree,average,78,3
+3,3-5 years,2021,above 60,female,below high school diploma,above average,71,5
+4,5-10 years,2016,50-60,female,bachelor's degree,below average,48,4
+5,1-3 years,2022,41-50,male,Doctoral degree,average,86,4
+6,1-3 years,2019,50-60,female,below high school diploma,average,19,5
+7,more than 10 years,2021,50-60,female,Doctoral degree,below average,61,3
+8,less than a year,2018,41-50,male,master's degree,above average,18,5
+9,3-5 years,2018,50-60,female,high school diploma,below average,38,3
+10,1-3 years,2022,above 60,female,below high school diploma,average,33,3
+11,less than a year,2015,31-40,female,bachelor's degree,average,2,4
+12,more than 10 years,2020,18-30,male,high school diploma,above average,2,2
+13,3-5 years,2017,above 60,male,Doctoral degree,above average,23,2
+14,less than a year,2019,50-60,female,Doctoral degree,average,46,4
+15,5-10 years,2019,18-30,male,master's degree,average,75,3
+16,5-10 years,2015,18-30,male,bachelor's degree,average,18,1
+17,3-5 years,2017,31-40,female,master's degree,average,67,4
+18,5-10 years,2022,41-50,female,master's degree,below average,59,4
+19,more than 10 years,2015,50-60,female,master's degree,above average,39,4
+20,5-10 years,2022,above 60,female,Doctoral degree,above average,66,1
+21,5-10 years,2021,50-60,female,bachelor's degree,below average,7,3
+22,1-3 years,2015,18-30,male,below high school diploma,below average,62,1
+23,more than 10 years,2021,above 60,male,high school diploma,average,51,1
+24,more than 10 years,2016,50-60,male,master's degree,above average,91,3
+25,1-3 years,2022,41-50,female,bachelor's degree,below average,87,3
+26,more than 10 years,2016,31-40,male,high school diploma,above average,23,3
+27,5-10 years,2022,31-40,female,below high school diploma,average,81,2
+28,less than a year,2022,41-50,female,bachelor's degree,below average,93,1
+29,less than a year,2015,18-30,male,master's degree,average,0,3
+30,1-3 years,2018,50-60,male,below high school diploma,above average,12,4
+31,5-10 years,2019,31-40,male,master's degree,average,62,1
+32,more than 10 years,2019,31-40,female,master's degree,average,11,4
+33,more than 10 years,2020,above 60,male,high school diploma,above average,87,4
+34,less than a year,2020,31-40,female,master's degree,average,10,2
+35,3-5 years,2015,50-60,male,below high school diploma,average,96,2
+36,more than 10 years,2017,18-30,female,high school diploma,average,17,2
+37,5-10 years,2019,18-30,female,below high school diploma,below average,35,3
+38,5-10 years,2019,above 60,male,high school diploma,above average,26,2
+39,3-5 years,2018,above 60,male,below high school diploma,average,6,5
+40,less than a year,2019,18-30,male,high school diploma,below average,79,3
+41,1-3 years,2015,above 60,male,master's degree,average,29,4
+42,1-3 years,2021,above 60,female,below high school diploma,average,95,1
+43,3-5 years,2021,above 60,female,Doctoral degree,average,22,2
+44,5-10 years,2015,above 60,female,Doctoral degree,average,90,2
+45,less than a year,2018,50-60,male,master's degree,above average,12,2
+46,more than 10 years,2020,41-50,male,bachelor's degree,below average,65,4
+47,more than 10 years,2018,above 60,male,Doctoral degree,average,18,5
+48,less than a year,2020,31-40,female,high school diploma,below average,17,1
+49,less than a year,2019,31-40,female,below high school diploma,below average,13,5
+50,5-10 years,2021,50-60,female,high school diploma,below average,48,3
+51,5-10 years,2017,31-40,male,master's degree,average,97,5
+52,less than a year,2019,18-30,female,high school diploma,below average,67,4
+53,1-3 years,2020,above 60,female,bachelor's degree,below average,40,4
+54,3-5 years,2021,above 60,male,below high school diploma,below average,94,5
+55,1-3 years,2021,31-40,male,bachelor's degree,average,100,5
+56,more than 10 years,2016,50-60,female,bachelor's degree,average,8,2
+57,more than 10 years,2018,31-40,female,master's degree,below average,21,1
+58,more than 10 years,2021,41-50,female,bachelor's degree,above average,2,4
+59,less than a year,2020,50-60,male,master's degree,average,89,4
+60,5-10 years,2021,31-40,female,bachelor's degree,average,20,4
+61,less than a year,2016,41-50,male,Doctoral degree,above average,38,3
+62,5-10 years,2016,31-40,male,high school diploma,average,88,5
+63,1-3 years,2018,31-40,male,below high school diploma,below average,3,5
+64,3-5 years,2019,50-60,female,bachelor's degree,below average,58,2
+65,1-3 years,2021,41-50,male,below high school diploma,below average,66,4
+66,1-3 years,2019,18-30,male,Doctoral degree,average,80,2
+67,5-10 years,2022,31-40,female,below high school diploma,average,49,3
+68,1-3 years,2021,50-60,male,high school diploma,above average,31,3
+69,3-5 years,2015,50-60,female,high school diploma,below average,74,5
+70,1-3 years,2022,31-40,female,below high school diploma,average,10,5
+71,3-5 years,2015,18-30,female,master's degree,below average,99,5
+72,1-3 years,2015,18-30,female,Doctoral degree,above average,32,4
+73,5-10 years,2021,above 60,female,high school diploma,below average,54,3
+74,less than a year,2020,31-40,female,below high school diploma,below average,11,4
+75,less than a year,2016,18-30,male,below high school diploma,below average,3,1
+76,less than a year,2021,41-50,female,Doctoral degree,below average,31,3
+77,more than 10 years,2016,41-50,female,below high school diploma,average,5,2
+78,more than 10 years,2019,31-40,male,bachelor's degree,average,44,4
+79,1-3 years,2017,50-60,male,below high school diploma,average,85,5
+80,3-5 years,2021,above 60,male,below high school diploma,above average,27,1
+81,1-3 years,2022,18-30,female,Doctoral degree,average,97,2
+82,more than 10 years,2021,31-40,male,high school diploma,average,86,5
+83,less than a year,2021,41-50,female,Doctoral degree,below average,82,2
+84,more than 10 years,2019,above 60,female,bachelor's degree,average,68,4
+85,3-5 years,2022,above 60,male,below high school diploma,below average,50,3
+86,less than a year,2015,50-60,female,master's degree,average,24,4
+87,3-5 years,2016,18-30,male,master's degree,above average,84,3
+88,3-5 years,2019,31-40,male,bachelor's degree,above average,30,3
+89,less than a year,2017,above 60,female,master's degree,average,47,5
+90,1-3 years,2019,18-30,female,below high school diploma,average,79,1
+91,more than 10 years,2016,above 60,female,bachelor's degree,below average,31,3
+92,less than a year,2019,31-40,female,Doctoral degree,below average,97,4
+93,5-10 years,2019,18-30,male,Doctoral degree,above average,44,5
+94,less than a year,2019,50-60,female,bachelor's degree,above average,100,2
+95,5-10 years,2019,above 60,male,master's degree,above average,39,1
+96,1-3 years,2021,above 60,female,bachelor's degree,average,51,4
+97,less than a year,2019,above 60,male,bachelor's degree,average,45,2
+98,less than a year,2017,18-30,female,master's degree,average,51,4
+99,5-10 years,2022,41-50,female,Doctoral degree,above average,8,1
+100,more than 10 years,2021,31-40,female,below high school diploma,average,13,5
+101,more than 10 years,2018,18-30,female,high school diploma,below average,30,2
+102,5-10 years,2017,41-50,female,bachelor's degree,average,80,2
+103,less than a year,2018,above 60,female,below high school diploma,below average,17,5
+104,3-5 years,2017,above 60,female,master's degree,average,59,5
+105,1-3 years,2019,18-30,female,Doctoral degree,below average,12,2
+106,less than a year,2020,41-50,male,high school diploma,below average,72,2
+107,3-5 years,2019,50-60,female,Doctoral degree,average,6,4
+108,less than a year,2018,18-30,female,below high school diploma,below average,100,4
+109,less than a year,2019,31-40,male,Doctoral degree,average,42,2
+110,3-5 years,2017,50-60,male,Doctoral degree,above average,21,5
+111,more than 10 years,2015,50-60,male,bachelor's degree,below average,82,1
+112,less than a year,2021,18-30,female,master's degree,below average,76,1
+113,5-10 years,2016,18-30,male,Doctoral degree,above average,61,2
+114,less than a year,2018,31-40,male,bachelor's degree,average,43,1
+115,5-10 years,2015,50-60,female,high school diploma,average,11,5
+116,1-3 years,2021,41-50,male,master's degree,above average,53,4
+117,more than 10 years,2021,50-60,female,Doctoral degree,average,87,4
+118,3-5 years,2018,18-30,female,below high school diploma,above average,47,5
+119,1-3 years,2015,50-60,female,high school diploma,below average,37,2
+120,3-5 years,2019,41-50,female,high school diploma,below average,10,4
+121,more than 10 years,2022,41-50,male,bachelor's degree,above average,59,4
+122,less than a year,2015,50-60,female,below high school diploma,below average,60,2
+123,1-3 years,2017,18-30,female,Doctoral degree,above average,99,1
+124,less than a year,2022,31-40,female,master's degree,below average,65,2
+125,5-10 years,2020,31-40,female,master's degree,below average,55,5
+126,more than 10 years,2019,18-30,female,bachelor's degree,average,81,2
+127,5-10 years,2017,above 60,male,below high school diploma,above average,82,2
+128,1-3 years,2015,above 60,female,high school diploma,above average,23,5
+129,5-10 years,2015,31-40,female,Doctoral degree,average,43,3
+130,3-5 years,2021,18-30,female,Doctoral degree,average,68,1
+131,less than a year,2016,41-50,male,below high school diploma,below average,28,2
+132,1-3 years,2020,31-40,male,Doctoral degree,above average,61,2
+133,5-10 years,2019,above 60,female,bachelor's degree,average,46,1
+134,1-3 years,2020,18-30,male,below high school diploma,above average,1,5
+135,5-10 years,2020,41-50,male,Doctoral degree,average,86,1
+136,3-5 years,2021,41-50,female,Doctoral degree,average,11,2
+137,3-5 years,2016,41-50,female,below high school diploma,below average,74,2
+138,5-10 years,2015,18-30,male,high school diploma,average,16,4
+139,1-3 years,2021,41-50,male,high school diploma,below average,12,1
+140,3-5 years,2018,50-60,female,Doctoral degree,above average,33,1
+141,3-5 years,2015,50-60,female,high school diploma,below average,1,5
+142,3-5 years,2021,above 60,female,master's degree,below average,36,1
+143,more than 10 years,2015,50-60,female,bachelor's degree,average,44,5
+144,more than 10 years,2016,18-30,female,Doctoral degree,above average,62,3
+145,5-10 years,2015,41-50,male,master's degree,above average,43,3
+146,1-3 years,2015,41-50,male,master's degree,above average,95,5
+147,less than a year,2016,31-40,female,Doctoral degree,below average,36,4
+148,5-10 years,2020,above 60,female,bachelor's degree,above average,90,1
+149,5-10 years,2018,above 60,female,below high school diploma,below average,17,2
+150,3-5 years,2016,50-60,female,master's degree,above average,75,1
